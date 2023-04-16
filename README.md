@@ -1,6 +1,5 @@
 # Loan Prediction Analysis - Classification
 
-**Complete Video Tutorial:** https://youtu.be/zDwxGxiNFSo
 
 # Dataset Information
 
